@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "卢梦媛-个人主页"
+locale                   : "en-China"
+title                    : "Mengyuan Lu Homepage"
 title_separator          : "-"
 name                     : &name "卢梦媛"
 description              : &description "我是一名来自山东大学软件学院的2020级本科生，研究兴趣是人工智能，数据挖掘，计算机视觉，无线通信，生物大数据。热爱设计和编程，喜欢迎接新的挑战。希望能够顺利踏入人生新的阶段，深入学习一门学科，沉下心感受生活的美好。"
