@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "卢梦媛"
+  name             : "MengyuanLu(卢梦媛)"
   avatar           : "lmy.png"
-  bio              : "personal page of MengyuanLu"
-  location         : "Location"
+  bio              : "ShanDong University"
+  location         : "山东济南"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    :  #"http://yourfullgooglescholarurl.com"
+  email            : "19510180381@163.com或202000300192@mail.sdu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/Carrot0406"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :  #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
