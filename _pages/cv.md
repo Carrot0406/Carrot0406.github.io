@@ -9,13 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+教育经历
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 山东大学-软件工程                                                                                                                      2020年9月-2024年6月
+  专业成绩：GPA 4.11/5，排名29/333（专业前9%）
+  Cet4/Cet6：529/464
+  相关课程：数据结构（93）数据库系统（93）众智科学与网络化产业（95）算法设计与分析（91）非关系型数据库（95）线性代数（93）离散数学（91）计算机组织与结构（90）Linux应用（99）编译原理与技术（92）计算机网络（93）软件工程（95）计算机视觉（90）Web技术（96） 
 
-Work experience
+科研经历
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -27,7 +28,7 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
+项目经历
 ======
 * Skill 1
 * Skill 2
@@ -36,24 +37,15 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+校园经历
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+其他
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
